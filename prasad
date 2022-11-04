@@ -1,0 +1,12 @@
+giit init
+git status
+touch file
+git status
+git add .
+git commit -m"sample commit"
+git status
+git log
+git show
+or
+git show cid
+git push
