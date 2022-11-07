@@ -1,5 +1,9 @@
-hello all these are the commands got git 
-giit init
+<<<<<<< HEAD
+hello all these are the commands got git
+=======
+ modified in release1
+ giit init
+>>>>>>> release1
 git status
 touch file
 git status
