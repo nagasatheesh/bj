@@ -1,4 +1,5 @@
-giit init
+ modified in release1
+ giit init
 git status
 touch file
 git status
