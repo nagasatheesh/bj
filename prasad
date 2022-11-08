@@ -1,24 +1,17 @@
 <<<<<<< HEAD
 hello all these are the commands got git
 =======
- dbbvbv
- ff
-
- f
- f
-
-
  modified in release1
  giit init
 >>>>>>> release1
 git status
 touch file
-gfvfit status
+git status
 git add .
 git commit -m"sample commit"
 git status
-git ffflog
+git log
 git show
 or
 git show cid
-git pusfbbh
+git push
